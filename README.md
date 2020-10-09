@@ -51,7 +51,7 @@ Create your **build/index.html** file, and include the built css:
 ### Tips
 
 Run a live server. First install it globally: `yarn global add live-server`  
-Then run from the **index.html** directery: `$ live-server public/build/`
+Then run: `$ live-server public/build/`
 
 ### More Setup Examples
 [link](https://github.com/tailwindlabs/tailwindcss-setup-examples)
