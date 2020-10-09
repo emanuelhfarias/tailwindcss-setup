@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
   "dependencies": {
     "autoprefixer": "^10.0.1",
     "postcss": "^8.1.1",
